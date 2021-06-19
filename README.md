@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Khant9, My real name is Khant Kyaw Khine and I'm from Myanmar(Burma)
+- 👀 I’m interested in coding and I'm still learning...
+- 🌱 I’m currently learning HTML, CSS, Javascript ...
+- 📫 You can check my facebook at ( http://www.facebook.com/khant.k.khine.7 ) ...
+
+<!---
+Khant9/Khant9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
